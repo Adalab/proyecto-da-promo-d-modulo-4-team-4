@@ -1,6 +1,6 @@
 # proyecto-da-promo-d-modulo-4-team-4
 
-### Descripción 📖 
+## 📖 Descripción 
 
 Debido al gran desarrollo de las tecnologías y la gran importancia que adquieren las redes sociales en la actualidad, se asocian grandes trastornos en la salud mental de la población a ellas. Por ello y por medio de este proyecto se pretende analizar la relación entre el uso de redes sociales y el bienestar emocional. A través de datos y modelos analíticos, buscamos identificar patrones y correlaciones que permitan entender mejor el impacto de las redes en la salud mental.
 
@@ -12,7 +12,7 @@ Debido al gran desarrollo de las tecnologías y la gran importancia que adquiere
 
 •	Identificar factores de riesgo y/o beneficios del uso de redes sociales.
 
-## 🙏🏼 EQUIPO:
+## 🙏🏼 Equipo:
 
 •	Jessica Moreaux Cueto - @jessicamxc
 
@@ -26,7 +26,7 @@ Debido al gran desarrollo de las tecnologías y la gran importancia que adquiere
 Los datos que vamos a estar analizando fueron recogidos de la plataforma Kaggle y el enlace desde donde nos descargamos los tres csv que posteriormente unimos y limpiamos es el siguiente: https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emotional-well-being
 El análisis se presentará a través de un dashboard interactivo en Tableau, compuesto por las siguientes hojas:
 
-  #1: Redes Sociales
+    #1: Redes Sociales
 
 En el primer dashboard que se presenta, se analizan datos generales de los usuarios de los que tenemos información para tener una visión general y poder conocer mejor desde que punto partimos en este análisis
 
