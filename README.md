@@ -8,11 +8,11 @@ Debido al gran desarrollo de las tecnologías y la gran importancia que adquiere
 
 ## 🚀 Objetivos
 
-•	Explorar cómo diferentes plataformas afectan el bienestar emocional.
+🎯	Explorar cómo diferentes plataformas afectan el bienestar emocional.
 
-•	Relacionar las distintas métricas con las emociones de los usuarios.
+🎯	Relacionar las distintas métricas con las emociones de los usuarios.
 
-•	Identificar factores de riesgo y/o beneficios del uso de redes sociales.
+🎯	Identificar factores de riesgo y/o beneficios del uso de redes sociales.
 
 ## 🙏🏼 Equipo:
 
@@ -23,7 +23,7 @@ Debido al gran desarrollo de las tecnologías y la gran importancia que adquiere
 •	Cristina Campos Fernández --> **@Cris-CF**
 
 
-## 📊 Composición del Proyecto 
+## 🗂️ Composición del Proyecto 
 
 Los datos que vamos a estar analizando fueron recogidos de la plataforma Kaggle. En la carpeta “CSV” en este mismo repositorio se pueden ver y descargar los CSV usados y en la carpeta “DataFrame” están subidos tanto el cuaderno de Jupyter en el que se hizo la unión y limpieza de los datos recolectados, como el DataFrame resultante de ese EDA, con el que, se hizo el posterior análisis y procesamiento de los datos en Tableau.
 
@@ -58,13 +58,11 @@ El análisis sugiere que las redes sociales pueden ser herramientas útiles si s
 
 ## 🛠️ Herramientas utilizadas
 
-•	Python y Jupyter Notebook 
+🐍	Python y Jupyter Notebook 
 
-•	Tableau
+📊	Tableau
 
-•	Slack
-
-•	Github
+😺	Github
 
 
 --------------------
@@ -78,11 +76,11 @@ Due to the great development of technology and the increasing importance of soci
 
 ## 🚀 Objectives
 
-• Explore how different platforms affect emotional well-being.
+🎯 Explore how different platforms affect emotional well-being.
 
-• Relate various metrics to users' emotions.
+🎯 Relate various metrics to users' emotions.
 
-• Identify risk factors and/or benefits of social media use.
+🎯 Identify risk factors and/or benefits of social media use.
 
 ## 🙏🏼 Team
 • Jessica Moreaux Cueto --> **@jessicamxc**
@@ -91,7 +89,7 @@ Due to the great development of technology and the increasing importance of soci
 
 • Cristina Campos Fernández  --> **@Cris-CF**
 
-## 📊 Project Composition
+## 🗂️ Project Composition
 
 The data we will be analyzing was collected from the Kaggle platform. In the “CSV” folder within this repository, you can view and download the CSV files used. In the “DataFrame” folder, you will find both the Jupyter Notebook where the collected data was merged and cleaned, as well as the resulting DataFrame from this EDA, which was later analyzed and processed in Tableau.
 
@@ -122,13 +120,12 @@ The sample obtained was not sufficient to detect the emotional impact on younger
 The analysis suggests that social media can be useful tools if used in a moderate and conscious manner. Implementing time limits would be beneficial to reduce negative effects and improve emotional well-being.
 
 ## 🛠️ Tools Used
-• Python and Jupyter Notebook
 
-• Tableau
+🐍Python and Jupyter Notebook
 
-• Slack
+📊 Tableau
 
-• Github
+😺 Github
 
 
 
