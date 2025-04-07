@@ -34,7 +34,7 @@ En el primer dashboard que se presenta, se analizan datos generales de los usuar
 
 En este dashboard empezamos a profundizar más en las emociones y como afectan según algunos factores como pueden ser el género, las interacciones, los tiempos de uso y agrupando las que creemos emociones positivas o negativas  para poder tener una idea formada de como está afectando a los usuarios la exposición continuada a redes.
 
-  # Conclusiones: 
+  #Conclusiones: 
 
 Recogemos los datos más relevantes del análisis visual realizado.
 
