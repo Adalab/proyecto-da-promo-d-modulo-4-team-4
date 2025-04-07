@@ -16,11 +16,11 @@ Debido al gran desarrollo de las tecnologías y la gran importancia que adquiere
 
 ## 🙏🏼 Equipo:
 
-•	Jessica Moreaux Cueto - @jessicamxc
+•	Jessica Moreaux Cueto --> **@jessicamxc**
 
-•	Elisa García Barbazán - @e-garciab
+•	Elisa García Barbazán --> **@e-garciab**
 
-•	Cristina Campos Fernández - @Cris-CF
+•	Cristina Campos Fernández --> **@Cris-CF**
 
 
 ## 📊 Composición del Proyecto 
@@ -85,11 +85,11 @@ Due to the great development of technology and the increasing importance of soci
 • Identify risk factors and/or benefits of social media use.
 
 ## 🙏🏼 Team
-• Jessica Moreaux Cueto - @jessicamxc
+• Jessica Moreaux Cueto --> **@jessicamxc**
 
-• Elisa García Barbazán - @e-garciab
+• Elisa García Barbazán --> **@e-garciab**
 
-• Cristina Campos Fernández - @Cris-CF
+• Cristina Campos Fernández  --> **@Cris-CF**
 
 ## 📊 Project Composition
 
