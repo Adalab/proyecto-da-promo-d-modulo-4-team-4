@@ -45,6 +45,7 @@ Recogemos los datos más relevantes del análisis visual realizado.
 Las RRSS son una herramienta poderosa que influye significativamente en nuestras vidas diarias, pero también pueden tener efectos negativos. En la muestra analizada, se observó que la mayoría de las interacciones generaban emociones dominantes como la tristeza, enfado o incluso la ansiedad, es decir, tienden a afectar el bienestar emocional de los usuarios.
 
 **Conclusión 2:** Tiempo
+
 Muchos usuarios de redes pasan horas interactuando a través de plataformas online, lo que puede restar tiempo a otras actividades, ya sean productivas o de descanso. A menudo se utilizan de forma pasiva, consumiendo contenido sin obtener mucho valor de ello.
 
 **Conclusión 3:** Regulación
